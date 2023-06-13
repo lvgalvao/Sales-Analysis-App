@@ -1,0 +1,48 @@
+Produto,Categoria,Vendas,Região,Vendedor,Date
+Sabonete,Produtos de Higiene,500,Sudeste,João,01/01/2023
+Sabonete,Produtos de Higiene,400,Sudeste,João,01/02/2023
+Sabonete,Produtos de Higiene,350,Sudeste,Carlos,01/03/2023
+Sabonete,Produtos de Higiene,600,Nordeste,Maria,01/04/2023
+Sabonete,Produtos de Higiene,550,Nordeste,Maria,01/04/2023
+Sabonete,Produtos de Higiene,450,Nordeste,Carlos,01/04/2023
+Sabonete,Produtos de Higiene,400,Nordeste,Carlos,01/05/2023
+Sabonete,Produtos de Higiene,300,Nordeste,Maria,01/05/2023
+Sabonete,Produtos de Higiene,200,Sudeste,João,01/05/2023
+Sabonete,Produtos de Higiene,500,Sudeste,João,01/06/2023
+Xampu,Produtos de Higiene,800,Sudeste,Maria,01/01/2023
+Xampu,Produtos de Higiene,700,Sudeste,Maria,01/02/2023
+Xampu,Produtos de Higiene,650,Sudeste,João,01/02/2023
+Xampu,Produtos de Higiene,900,Nordeste,Carlos,01/04/2023
+Xampu,Produtos de Higiene,750,Nordeste,Carlos,01/04/2023
+Xampu,Produtos de Higiene,600,Nordeste,Maria,01/05/2023
+Xampu,Produtos de Higiene,550,Nordeste,João,01/05/2023
+Xampu,Produtos de Higiene,450,Sudeste,João,01/06/2023
+Xampu,Produtos de Higiene,400,Sudeste,Maria,01/06/2023
+Desodorante,Produtos de Higiene,300,Sudeste,Carlos,01/01/2023
+Desodorante,Produtos de Higiene,250,Sudeste,Carlos,01/02/2023
+Desodorante,Produtos de Higiene,200,Sudeste,João,01/03/2023
+Desodorante,Produtos de Higiene,350,Nordeste,Maria,01/04/2023
+Desodorante,Produtos de Higiene,300,Nordeste,Maria,01/04/2023
+Desodorante,Produtos de Higiene,250,Nordeste,Carlos,01/06/2023
+Desodorante,Produtos de Higiene,200,Sudeste,Carlos,01/06/2023
+Desodorante,Produtos de Higiene,150,Sudeste,João,01/06/2023
+Desodorante,Produtos de Higiene,250,Sudeste,João,01/06/2023
+Sabão em Pó,Produtos de Limpeza,600,Sudeste,João,01/01/2023
+Sabão em Pó,Produtos de Limpeza,550,Sudeste,João,01/02/2023
+Sabão em Pó,Produtos de Limpeza,500,Sudeste,Carlos,01/03/2023
+Sabão em Pó,Produtos de Limpeza,700,Nordeste,Maria,01/03/2023
+Sabão em Pó,Produtos de Limpeza,650,Nordeste,Maria,01/03/2023
+Sabão em Pó,Produtos de Limpeza,600,Nordeste,Carlos,01/04/2023
+Sabão em Pó,Produtos de Limpeza,550,Nordeste,Carlos,01/04/2023
+Sabão em Pó,Produtos de Limpeza,500,Sudeste,João,01/04/2023
+Sabão em Pó,Produtos de Limpeza,450,Sudeste,João,01/05/2023
+Sabão em Pó,Produtos de Limpeza,400,Sudeste,João,01/05/2023
+Amaciante,Produtos de Limpeza,400,Sudeste,Maria,01/02/2023
+Amaciante,Produtos de Limpeza,350,Sudeste,Maria,01/02/2023
+Amaciante,Produtos de Limpeza,300,Sudeste,João,01/02/2023
+Amaciante,Produtos de Limpeza,450,Nordeste,Carlos,01/03/2023
+Amaciante,Produtos de Limpeza,400,Nordeste,Carlos,01/04/2023
+Amaciante,Produtos de Limpeza,350,Nordeste,Maria,01/05/2023
+Amaciante,Produtos de Limpeza,300,Nordeste,João,01/05/2023
+Amaciante,Produtos de Limpeza,250,Sudeste,João,01/06/2023
+Amaciante,Produtos de Limpeza,350,Sudeste,Maria,01/06/2023
